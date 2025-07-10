@@ -1,7 +1,9 @@
 
 Check out the live Demo of this project 👉  
 🔗 [https://music-academy-nextjs-orcin.vercel.app](https://music-academy-nextjs-orcin.vercel.app)
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+
+
 
 ## Getting Started
 
